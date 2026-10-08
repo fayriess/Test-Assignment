@@ -1,5 +1,7 @@
 # Test-Assignment
 
+![logo](https://github.com/EdDataScienceEES/DataScienceHub2026/blob/main/repo_files/DataSciEES_logo.jpg)
+
 Name: Amelia
 Comment: I have done the first three steps, by committing this and pushing it to feature on my online repo
 
@@ -35,3 +37,4 @@ hint: you can use "git help" to open the terminal manual or "git help -a" to lis
 3. Undo Change: Edit secret.txt, then run a command to revert it to its last committed state before saving.
 4. Check Status: Run a command to display the difference between staged and unstaged changes.
 5. Add, commit (message: "Added secret file"),pull and push secret.txt using only terminal commands.
+
