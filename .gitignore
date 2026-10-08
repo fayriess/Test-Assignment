@@ -38,3 +38,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 .Rproj.user
+
+# Prevent users from committing their own .Rproj.user
+# These are temporary project files, that do not matter
