@@ -1,0 +1,17 @@
+---
+title: "My Submission"
+author: "Amelia"
+date: "2026-10-08"
+output: html_document
+---
+
+## version control is good for:
+1. being honest with your data, proving there is no fraud or bad code practices happening
+2. its also good if your laptop gets stolen in florida
+3. good to track changes if working in a big group
+
+```{r}
+1+1
+```
+
+
