@@ -28,6 +28,8 @@ Output:
 14. Embed the course logo in the root Readme using Markdown 
 15. Link your R Markdown report using Markdown 
 
+[My R Markdown](https://github.com/fayriess/Test-Assignment/blob/main/my_submission.Rmd)
+
 🚀 Stretch Goals: Terminal Challenge
 Switch to the Terminal tab in RStudio. Find the correct commands to complete these tasks without using the Git GUI buttons.
 hint: you can use "git help" to open the terminal manual or "git help -a" to list allavailable commands
